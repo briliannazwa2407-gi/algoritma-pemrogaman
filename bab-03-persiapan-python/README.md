@@ -1,0 +1,15 @@
+# Bab 3 - Persiapan Python
+
+## Status Lingkungan
+- Python: berhasil
+- VS Code: berhasil
+- Python Extension: terpasang
+- Git: berhasil
+- GitHub: terhubung
+
+## Program Pertama
+File: hello.py
+
+## Catatan
+Pertama kali saya menggunakan aplikasi ini jadi saya awal-awal merasa sedikit kesulitan memahami aplikasinya. Seiring mengerjakan tugas ini saya mulai paham sedik-sedikit tentang aplikasi ini.
+
